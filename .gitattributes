@@ -1,0 +1,8 @@
+# 文本文件按工作区规范处理换行
+* text=auto
+
+# 二进制资源不做换行转换
+*.png binary
+
+# Windows 批处理如日后加入，强制 CRLF
+# *.bat text eol=crlf
